@@ -1,2 +1,2 @@
-ibmcloud_api_key = "da7632c3-62b9-4eea-9dc2-1009fe8ddcca"
+ibmcloud_api_key = "*******abcd****"
 region = "us-south"
